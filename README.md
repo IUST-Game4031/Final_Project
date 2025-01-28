@@ -44,7 +44,7 @@ Welcome to the **3D Endless Runner** project! In this game there is one characte
 |---------------------------|--------------------|
 | Move Left                 | A                  |
 | Move Right                | D                  |
-| Jumpping                  | W                  |
+| Jump                      | W                  |
 | Shoot In Left Lane        | ←                  |
 | Shoot In Right Lane       | →                  |
 | Shoot In Mid Lane         | ↑                  |
