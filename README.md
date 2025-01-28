@@ -1,5 +1,5 @@
-# 3D Endless Runner 🦸‍♂️
-Welcome to the **3D Endless Runner** project! In this game there is one character that can move left and right and there is some obstacles that coming to the character and charcter should pssing them and gaining score
+# Zombie Runner 🦸‍♂️
+Welcome to the **3D Endless Runner** project! In this game there is one character that can move left and right and there is some obstacles and zombies that coming to the character and charcter should pssing them and gaining score
 
 ---
 
@@ -9,13 +9,16 @@ Welcome to the **3D Endless Runner** project! In this game there is one characte
    - There are some animations for character for example brthing in idle status / running / 2 faliing down animations when charcter hits obstacles
 
 2. **Characters Movement**:
-   - You can go to the left and right with clicking on **A** and **D** keys
-
+   - You can go to the left and right with clicking on **A** and **D** keys and **W** for jumpping
+ 
 3. **Obstacles Generator**:
-   - There is a service that create obstacles in random positions and its never blocking character and its not easy to gusse the pattern
+   - There is a service that create obstacles and zombies in random positions and its never blocking character and its not easy to gusse the pattern
 
 4. **Pasusing**:
    - You can puase the game and the resume it or reset it or backing to the home menu
+  
+4. **Shooting**:
+   - You can shoot with your laser gun in 3 lanes with arrow keys
    
 
 ---
@@ -41,6 +44,10 @@ Welcome to the **3D Endless Runner** project! In this game there is one characte
 |---------------------------|--------------------|
 | Move Left                 | A                  |
 | Move Right                | D                  |
+| Jumpping                  | W                  |
+| Shoot In Left Lane        | ←                  |
+| Shoot In Right Lane       | →                  |
+| Shoot In Mid Lane         | ↑                  |
 | Menu                      | Escape             |
 
 ---
