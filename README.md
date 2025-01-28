@@ -6,7 +6,7 @@ Welcome to the **3D Endless Runner** project! In this game there is one characte
 ## 🚀 Features
 
 1. **Animations**:
-   - There are some animations for character for example brthing in idle status / running / 2 faliing down animations when charcter hits obstacles
+   - There are some animations for character for example brthing in idle status / running / jumpping / 3 falling down animations when charcter hits obstacles
 
 2. **Characters Movement**:
    - You can go to the left and right with clicking on **A** and **D** keys and **W** for jumpping
